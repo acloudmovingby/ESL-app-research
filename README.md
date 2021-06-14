@@ -3,8 +3,10 @@
 ## Overview
 Over the course of around 5 months, I researched and prototyped designs for an app to teach intermediate to advanced ESL (English as a Second Language). My target user was adult learners. I ended up testing around 6-7 different prototypes across 40 interviews, primarily with speakers of Brazilian Portuguese and Thai, but also Spanish, Russian and other assorted languages. Interviews were conducted in English and sometimes Thai. 
 
+large-figma-project.png
+
 Language acquisition is hard. The vast majority of apps out there felt trivial to these users and I wanted to investigate what higher level language apps might look like. 
-<img graph of complicated prototype>
+
 <img animation from Figma>
 
 ## Process
@@ -19,7 +21,7 @@ While my overall philosophy was more inspired by Inspired, I also greatly enjoye
   - Emphasis on asking the big questions up front: what are biggest risks, why will this fail
   - Alternation of ideation / brainstorming and committing to certain ideas but only after a lot of exploration. 
   - This was huge: building a prototype in **one day**. 
-  As an avowed masochistic perfectionist, this last point was extremely enlightening for me. It really made me aware of how a working prototype can be made without much time at all, and that a lot of time spent building projects can be wasted by taking too long to implement a not-so-well-thouhgt out idea and not isolating the biggest hypothesis/risk first. 
+  As an avowed masochistic perfectionist, this last point was extremely enlightening for me. It really made me aware of how a working prototype can be made without much time at all, and that a lot of time spent building projects can be wasted by taking too long to implement a not-so-well-thought out idea and not isolating the biggest hypothesis/risk first. 
 <img of hand-drawn plans for design project> 
   For some of the prototypes I strictly followed the design sprint protocol: using day 1 to brainstorm big ideas and do research, Tuesday to ideate and brainstorm, Wednesday to make final committment and design choices, Thursday to build the prototype, then Friday to do user tests. 
   
