@@ -5,9 +5,10 @@ Over the course of around 5 months, I researched and prototyped designs for an a
 
 ![Large project in Figma](large-figma-project.png)
 
-Language acquisition is hard. The vast majority of apps out there felt trivial to these users and I wanted to investigate what higher level language apps might look like. 
 
-![Animation of course title](it-was-raining-card.gif)
+
+<img align="right" src="it-was-raining-card.gif">
+Language acquisition is hard. The vast majority of apps out there felt trivial to these users and I wanted to investigate what higher level language apps might look like. 
 
 ## Process
 I developed prototypes using Figma and Adobe XD, allowing myself no longer than 3 weeks for a given prototype (often times using just 1 week). I initially was very ambitious and wanted to have something to test with a user _every week_. This pace didn't last longer than a few weeks, but the spirit of rapid iteration and user testing was a strong theme for this project. 
