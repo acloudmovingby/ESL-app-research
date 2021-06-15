@@ -32,10 +32,10 @@ While my overall philosophy was more inspired by Inspired, I also greatly enjoye
   My initial designs were heavily influenced by Brilliant.org, a website that teaches advanced math concepts in a surprisingly well gamified way. I really liked how they could make a complex concept feel like a puzzle or challenge. While I knew that language learning was of course fundamentally different than math, I still liked the idea of a app that endeavored to go beyond the basics and rigorously challenge students. 
   
   My early designs were near identical copies of Brilliant layouts. 
-  <img early prototype>
+  ![Animation of course title](did-you-ever-quiz.png)
   
 As time went on, I made questions shorter and shorter, focused increasingly on topics such as grammar and pronunciation that got the best feedback from students. I also was still interested in the idea of having lessons followed by quizzes, but the lessons themselves were often uninteresting to users, so I continually shortened and streamlined them, eventually mimicking an app called Lucid to try animated explanations:
-  <img animated grammar explanation> 
+![Animation of course title](tenses-animation.gif)
   
   ## Lessons Learned
   - You don't know what the user wants. They don't know what they want. So you need to test with users ASAP.
