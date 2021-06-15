@@ -7,7 +7,7 @@ Over the course of around 5 months, I researched and prototyped designs for an a
 
 *(Some of the prototypes were small, some...excessive)*
 
-<img align="right" src="it-was-raining-card.gif">
+<img align="center" src="it-was-raining-card.gif">
 Language acquisition is hard. The vast majority of apps out there felt trivial to these users and I wanted to investigate what higher level language apps might look like. 
 
 ## Process
