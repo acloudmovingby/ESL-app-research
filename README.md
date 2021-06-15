@@ -7,7 +7,7 @@ Over the course of around 5 months, I researched and prototyped designs for an a
 
 Language acquisition is hard. The vast majority of apps out there felt trivial to these users and I wanted to investigate what higher level language apps might look like. 
 
-![Animation of course title](it-was-raining-card.gif)
+
 <img style="float: right" height="300" src="it-was-raining-card.gif">
 
 ## Process
