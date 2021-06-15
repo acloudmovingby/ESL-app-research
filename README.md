@@ -3,7 +3,7 @@
 ## Overview
 Over the course of around 5 months, I researched and prototyped designs for an app to teach intermediate to advanced ESL (English as a Second Language). My target user was adult learners. I ended up testing around 6-7 different prototypes across 40 interviews, primarily with speakers of Brazilian Portuguese and Thai, but also Spanish, Russian and other assorted languages. Interviews were conducted in English and sometimes Thai. 
 
-![Large project in Figma](large-figma-project.png)
+![Large project in Figma](large-prototype-project-size.png)
 
 
 
