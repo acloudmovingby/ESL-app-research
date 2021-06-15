@@ -5,7 +5,7 @@ Over the course of around 5 months, I researched and prototyped designs for an a
 
 ![Large project in Figma](large-prototype-project-size.png)
 
-*(Some prototypes were quite large...Note that when prototyping app designs, size does NOT correlate with success of the app :)*
+*(Some of the prototypes were small, some...excessive)*
 
 <img align="right" src="it-was-raining-card.gif">
 Language acquisition is hard. The vast majority of apps out there felt trivial to these users and I wanted to investigate what higher level language apps might look like. 
