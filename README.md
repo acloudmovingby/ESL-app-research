@@ -10,8 +10,8 @@ Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 differ
 - [General Lessons about Product Discovery](#general-lessons-learned-about-product-discovery)
 - [Findings and problems](#findings-and-problems)
 - [Musings on Figma and computation](#musings-on-figma-and-computation)
-* [Combinatorial States in Figma](#Combinatorial-States-in-Figma)
-* [Abusing Auto-Animate to Animate...Anything](##abusing-auto-animate-to-animateanything)
+  * [Combinatorial States in Figma](#Combinatorial-States-in-Figma)
+  * [Abusing Auto-Animate to Animate...Anything](##abusing-auto-animate-to-animateanything)
 
 ## Who
 I had been teaching ESL for ~8 years up to this point, especially with adults. Many users were contacts within immmigrant communities or abroad.
