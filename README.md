@@ -10,6 +10,7 @@ Over the course of around 5 months, I researched and prototyped designs for an a
 | ![it-was-raining-card.gif](it-was-raining-card.gif) | 
 |:--:| 
 | *I made some animations by abusing Figma Auto-Animate* |
+
 | ![it-was-raining-card.gif](it-was-raining-card.gif) | 
 |:--:| 
 | *I made some animations by abusing Figma Auto-Animate* |
