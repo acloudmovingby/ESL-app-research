@@ -7,7 +7,7 @@ Over the course of around 5 months, I researched and prototyped designs for an a
 
 *(Some of the prototypes were small, some...excessive)*
 
-| ![it-was-raining-card.gif](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+| ![it-was-raining-card.gif](it-was-raining-card.gif) | 
 |:--:| 
 | *I made some animations by abusing Figma Auto-Animate* |
 
