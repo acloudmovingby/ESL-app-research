@@ -1,7 +1,16 @@
+- [ESL-app-research](#esl-app-research)
+  * [Overview](#overview)
+  * [Process](#process)
+    + [A change in philosophy](#a-change-in-philosophy)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # ESL-app-research
 
 ## Overview
-Over the course of around 5 months, I researched and prototyped designs for an app to teach intermediate to advanced ESL (English as a Second Language). My target user was adult learners. I ended up testing around 6-7 different prototypes across 40 interviews, primarily with speakers of Brazilian Portuguese and Thai, but also Spanish, Russian and other assorted languages. Interviews were conducted in English and sometimes Thai. 
+Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 different designs for an app to teach intermediate to advanced ESL (English as a Second Language). These are things that might interest you:
+
+My target user was adult learners. I ended up testing around 6-7 different prototypes across 40 interviews, primarily with speakers of Brazilian Portuguese and Thai, but also Spanish, Russian and other assorted languages. Interviews were conducted in English and sometimes Thai. 
 
 ![Large project in Figma](large-prototype-project-size.png)
 
