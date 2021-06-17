@@ -7,6 +7,9 @@ Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 differ
 - [Process/Philosophy](#process-and-philosophy)
 - [Interview Format and Goals](#interview-format-and-goals)
 - [Prototype Examples](#prototype-examples)
+- [General Lessons about Product Discovery](#general-lessons-learned-about-product-discovery)
+- [Findings and problems](#findings-and-problems)
+- [Musings on Figma and computation](#musings-on-figma-and-computation)
 
 ## Who
 something
@@ -17,6 +20,12 @@ something
 ## Interview Format and Goals
 something
 ## Prototype Examples
+something
+## General lessons learned about product discovery
+something
+## Findings and problems
+something
+## Musings on Figma and computation
 something
 
 
