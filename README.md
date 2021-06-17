@@ -7,6 +7,10 @@ Over the course of around 5 months, I researched and prototyped designs for an a
 
 *(Some of the prototypes were small, some...excessive)*
 
+| ![it-was-raining-card.gif](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+|:--:| 
+| *I made some animations by abusing Figma Auto-Animate* |
+
 <img align="center" src="it-was-raining-card.gif">
 Language acquisition is hard. The vast majority of apps out there felt trivial to these users and I wanted to investigate what higher level language apps might look like. 
 
