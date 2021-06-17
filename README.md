@@ -2,7 +2,8 @@
 
 ## Overview
 Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 different designs for an app to teach intermediate to advanced ESL (English as a Second Language). These are things that might interest you:
-[Process](#process)
+- [Process](#process)
+- [Interviews](#interviews)
 
 My target user was adult learners. I ended up testing around 6-7 different prototypes across 40 interviews, primarily with speakers of Brazilian Portuguese and Thai, but also Spanish, Russian and other assorted languages. Interviews were conducted in English and sometimes Thai. 
 
