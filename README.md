@@ -4,7 +4,7 @@
 Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 different designs for an app to teach intermediate to advanced ESL (English as a Second Language). These are things that might interest you:
 - [Who](#who)
 - [Why](#why)
-- [Process/Philosophy](#Process and Philosophy)
+- [Process/Philosophy](#process-and-philosophy)
 - [Interview Format and Goals](#interview-format-and-goals)
 - [Prototype Examples](#prototype-examples)
 
