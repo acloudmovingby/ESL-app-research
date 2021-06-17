@@ -15,7 +15,7 @@ Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 differ
 I had been teaching ESL for ~8 years up to this point, especially with adults. Many users were contacts within immmigrant communities or abroad.
 - Most were Brazilian or Thai
 - Language used in interviews was English or Thai.
-- Most interviewees were moderately fluent in English already.
+- Most interviewees were quite fluent in English, but still showed some persistent language errors as most adult language learners do.
 
 ## Why
 - I had taught ESL for a long time and also learned languages as an adult, however in 2020 I became motivated to make an app to teach ESL because:
