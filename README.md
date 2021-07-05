@@ -51,7 +51,7 @@ Most interviews involved on these:
   My early designs were near identical copies of Brilliant layouts. 
   ![Animation of course title](did-you-ever-quiz.png)
   
-   <img align="left" src="tenses-animation.gif">
+   <img align="left" src="tense table animation.gif">
 As time went on, I made questions shorter and shorter, focused increasingly on topics such as grammar and pronunciation that got the best feedback from students. I also was still interested in the idea of having lessons followed by quizzes, but the lessons themselves were often uninteresting to users, so I continually shortened and streamlined them, eventually mimicking an app called Lucid to try animated explanations:
 
   ![Large project in Figma](large-prototype-project-size.png)
