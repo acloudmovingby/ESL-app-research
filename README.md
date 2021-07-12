@@ -75,7 +75,7 @@ So after many user interviews and prototypes, I came to some interesting conclus
  
 ## Musings on Figma and computation
 ### Combinatorial States in Figma
-  This project occurred before Figma's release of beta toggle buttons in spring 2021. Because my app was focused on quizzes and questions, building multiple choice questions was quite...annoying.
+  This project occurred before I was aware of (Figma's beta release)[https://help.figma.com/hc/en-us/articles/360061175334-Create-interactive-components-with-variants] of interactive buttons. Because my app was focused on quizzes and questions, building multiple choice questions was quite...annoying.
  ![Multiple choice questions have many states](quiz-multiple-choice-combinatorics.png)
  *(For a simple two answer multiple choice questions you needed to create 4 frames to represent all states!)*
  
