@@ -69,7 +69,10 @@ As time went on, I made questions shorter and shorter, focused increasingly on t
 
   
 ## Findings and problems
-Language acquisition is hard. The vast majority of apps out there felt trivial to these users and I wanted to investigate what higher level language apps might look like. 
+So after many user interviews and prototypes, I came to some interesting conclusions about language learning apps. One major conclusion I came to, is that for the intermediate/advanced language learning, you can't select "topics" to learn. 
+ 
+ A lot of apps try to offer a range of advanced topics, including more niche vocabulary domains or harder grammar exercises. However, I found that for ESL learners who are already fairly advanced, they will make mistakes in English but these mistakes will be very specific and not able to be broken up into clear domains or topics. For example, most users I interviewed complained heavily about English tenses, and specifically the perfect tenses. However, if you interrogate them about this further, you find that not only are they very good at tenses 85% of the time, their mistakes can be highly specific to certain situations. For example, they might complain that they use present perfect wrong, but in fact most of the time they're using it correctly. This presented a major issue, because in order for gamification to work, people really need to feel challenged. So to make some course or quiz about the present perfect, you invevitably create a lot of boring and unchallenging content. 
+ 
 ## Musings on Figma and computation
 ### Combinatorial States in Figma
   This project occurred before Figma's release of beta toggle buttons in spring 2021. Because my app was focused on quizzes and questions, building multiple choice questions was quite...annoying.
