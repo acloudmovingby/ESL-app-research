@@ -19,7 +19,7 @@ I made a lot of prototypes and they often were meant to test specific hypotheses
 
 At one point in my apps, I wanted to test a whole "course" about tenses, including several dozen lessons. In addition to creating several grammar quizzes, I also created an introduction to ease the user into the course: https://www.figma.com/proto/PN8o1YO5CEI431Z8W0M0t2/ESL-App?node-id=1943%3A0&scaling=min-zoom&page-id=1680%3A22651&starting-point-node-id=1943%3A0&show-proto-sidebar=1
 
-A major issue that I struggled with was: what topics do people want to learn? I did several tests of various home page layouts, using "false doors", to start conversations about why users chose one topic or another. One example I built was here: https://www.figma.com/proto/PN8o1YO5CEI431Z8W0M0t2/ESL-App?node-id=1480%3A0&scaling=min-zoom&page-id=1178%3A8875&starting-point-node-id=1480%3A0 Note that the art was a little elaborate, and while I knew that wasn't necessary, I enjoyed it and would try to make things visually attractive as long as it fell within my 1-2 week window to build a prototype. 
+I did several tests of home page layouts. A major issue that I struggled with was: what topics do people want to learn? I used "false doors", to start conversations about why users chose one topic or another.  One such example: https://www.figma.com/proto/PN8o1YO5CEI431Z8W0M0t2/ESL-App?node-id=1480%3A0&scaling=min-zoom&page-id=1178%3A8875&starting-point-node-id=1480%3A0 The art for many of my prototypes was a little elaborate. I knew that wasn't necessary, but I really enjoyed making illustrations and animations. 
 
 ## Who
 I had been teaching ESL for ~8 years up to this point, especially with adults. Many users were contacts within immmigrant communities or abroad.
