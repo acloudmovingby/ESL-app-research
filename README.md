@@ -17,7 +17,7 @@ Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 differ
 ## Links to Prototypes
 I made a lot of prototypes and they often were meant to test specific hypotheses. Because of that, they're not all in great condition to share. However, I will keep putting more links here as I make them more stranger-friendly to look at. 
 
-At one point in my apps, I wanted to test a whole "course" about tenses, including several dozen lessons. In addition to creating several grammar quizzes, I also created an introduction to ease the user into the course: https://www.figma.com/proto/PN8o1YO5CEI431Z8W0M0t2/ESL-App?node-id=1883%3A0&scaling=min-zoom&page-id=1680%3A22651&starting-point-node-id=1943%3A0&show-proto-sidebar=1
+At one point in my apps, I wanted to test a whole "course" about tenses, including several dozen lessons. In addition to creating several grammar quizzes, I also created an introduction to ease the user into the course: https://www.figma.com/proto/PN8o1YO5CEI431Z8W0M0t2/ESL-App?node-id=1943%3A0&scaling=min-zoom&page-id=1680%3A22651&starting-point-node-id=1943%3A0&show-proto-sidebar=1
 
 ## Who
 I had been teaching ESL for ~8 years up to this point, especially with adults. Many users were contacts within immmigrant communities or abroad.
