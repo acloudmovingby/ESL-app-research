@@ -2,7 +2,7 @@
 
 ## Overview
 Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 different designs for an app to teach intermediate to advanced ESL (English as a Second Language). These are things that might interest you:
-- [Links to Examples](#Links-to-Examples)
+- [Links to Prototypes](#Links-to-prototypes)
 - [Who](#who)
 - [Why](#why)
 - [Process/Philosophy](#process-and-philosophy)
@@ -14,17 +14,18 @@ Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 differ
   * [Combinatorial States in Figma](#Combinatorial-States-in-Figma)
   * [Abusing Auto-Animate to Animate...Anything](#abusing-auto-animate-to-animateanything)
 
+## Links to Prototypes
+I made a lot of prototypes and they often were meant to test specific hypotheses. Because of that, they're not all in great condition to share. However, I will keep putting more links here as I make them more stranger-friendly to look at. 
+
+At one point in my apps, I wanted to test a whole "course" about tenses, including several dozen lessons. In addition to creating several grammar quizzes, I also created an introduction to ease the user into the course: https://www.figma.com/proto/PN8o1YO5CEI431Z8W0M0t2/ESL-App?node-id=1883%3A0&scaling=min-zoom&page-id=1680%3A22651&starting-point-node-id=1943%3A0&show-proto-sidebar=1
+
 ## Who
 I had been teaching ESL for ~8 years up to this point, especially with adults. Many users were contacts within immmigrant communities or abroad.
 - Most were Brazilian or Thai
 - Language used in interviews was English or Thai.
 - Most interviewees were quite fluent in English, but still showed some persistent language errors as most adult language learners do.
 
-## Links to Examples
-I made a lot of prototypes and they often were meant to test specific hypotheses. Because of that, they're not all in great condition to share. However, I will keep putting more links here as I make them more stranger-friendly to look at. 
 
-At one point in my apps, I wanted to test a whole "course" about tenses, including several dozen lessons. I created an introduction followed by several example quizzes to see if people would like this format. I created a lot of the animations for this elaborate introduction using Figma's Auto-Animate (see section below on abusing auto-animate).
-Link: https://www.figma.com/proto/PN8o1YO5CEI431Z8W0M0t2/ESL-App?node-id=1883%3A0&scaling=min-zoom&page-id=1680%3A22651&starting-point-node-id=1943%3A0&show-proto-sidebar=1
 
 ## Why
 - I had taught ESL for a long time and also learned languages as an adult, however in 2020 I became motivated to make an app to teach ESL because:
