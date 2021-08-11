@@ -27,6 +27,10 @@ Major themes of this project were rapid iteration and frequent user testing. I u
 |:--:| 
 | *I made some animations by abusing Figma Auto-Animate* |
 
+| ![large-prototype-project-size.png](large-prototype-project-size.png) | 
+|:--:| 
+| *(Some of the prototypes were small, some...excessive)* |
+
 
 ## Links to Prototypes
 I made a lot of prototypes and they often were meant to test specific hypotheses. Because of that, they're not all in great condition to share. However, I will keep putting more links here as I make them more stranger-friendly to look at. 
