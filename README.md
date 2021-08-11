@@ -32,10 +32,6 @@ Major themes of this project were rapid iteration and frequent user testing. I u
 |:--:| 
 | *I made some animations by abusing Figma Auto-Animate* |
 
-| ![it-was-raining-card.gif](it-was-raining-card.gif) | 
-|:--:| 
-| *I made some animations by abusing Figma Auto-Animate* |
-
 | ![large-prototype-project-size.png](large-prototype-project-size.png) | 
 |:--:| 
 | *(Some of the prototypes were small, some...excessive)* |
