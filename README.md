@@ -18,10 +18,11 @@ Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 differ
 ## Screenshots
 Major themes of this project were rapid iteration and frequent user testing. I used Figma and Adobe XD to make numerous prototypes, for most of them, allowing myself only a week to complete (the longest was 3 weeks). Because of the diversity and rapid iteration, a good way to get a sense of the proejcts is just to see what some of these prototypes looked like: 
 
+| ![]() | 
+|:--:| 
+| *For one of the prototypes I considered measuring market demand by setting up a landing page.* |
 
 <img align="left" src="tense table animation.gif">
-  ![Large project in Figma](large-prototype-project-size.png)
-  *(Some of the prototypes were small, some...excessive)*
 
 | ![it-was-raining-card.gif](it-was-raining-card.gif) | 
 |:--:| 
