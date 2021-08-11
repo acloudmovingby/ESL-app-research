@@ -2,6 +2,7 @@
 
 ## Overview
 Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 different designs for an app to teach intermediate to advanced ESL (English as a Second Language). These are things that might interest you:
+- [Screenshots](#Screenshots)
 - [Links to Prototypes](#Links-to-prototypes)
 - [Who](#who)
 - [Why](#why)
@@ -13,6 +14,19 @@ Over the course of 5 months, I conducted 40 interviews and prototyped 6-7 differ
 - [Musings on Figma and computation](#musings-on-figma-and-computation)
   * [Combinatorial States in Figma](#Combinatorial-States-in-Figma)
   * [Abusing Auto-Animate to Animate...Anything](#abusing-auto-animate-to-animateanything)
+
+## Screenshots
+Major themes of this project were rapid iteration and frequent user testing. I used Figma and Adobe XD to make numerous prototypes, for most of them, allowing myself only a week to complete (the longest was 3 weeks). Because of the diversity and rapid iteration, a good way to get a sense of the proejcts is just to see what some of these prototypes looked like: 
+
+
+<img align="left" src="tense table animation.gif">
+  ![Large project in Figma](large-prototype-project-size.png)
+  *(Some of the prototypes were small, some...excessive)*
+
+| ![it-was-raining-card.gif](it-was-raining-card.gif) | 
+|:--:| 
+| *I made some animations by abusing Figma Auto-Animate* |
+
 
 ## Links to Prototypes
 I made a lot of prototypes and they often were meant to test specific hypotheses. Because of that, they're not all in great condition to share. However, I will keep putting more links here as I make them more stranger-friendly to look at. 
@@ -48,7 +62,7 @@ While my overall philosophy was more inspired by Inspired, I also greatly enjoye
   As an avowed masochistic perfectionist, this last point was extremely enlightening for me. It really made me aware of how a working prototype can be made without much time at all, and that a lot of time spent building projects can be wasted by taking too long to implement a not-so-well-thought out idea and not isolating the biggest hypothesis/risk first. 
 <img of hand-drawn plans for design project> 
   For some of the prototypes I strictly followed the design sprint protocol: using day 1 to brainstorm big ideas and do research, Tuesday to ideate and brainstorm, Wednesday to make final committment and design choices, Thursday to build the prototype, then Friday to do user tests. 
-
+ 
 ## Interview Format and Goals
 Most interviews involved on these:
   - Asking open-ended questions about pain-points in learning English. (My favorite question to begin with was "What is the hardest thing about learning English?")
